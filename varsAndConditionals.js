@@ -61,3 +61,5 @@ while(anakinHealth > 0) {
     anakinHealth -= dookuAttack;
     console.log(`Anakin's health is now ${anakinHealth}.`);
 }
+
+console.log("F22 is the best.");
